@@ -1,0 +1,27 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "ModuleA.js commonjs\r exports.a=\"a\";\r exports.b=\"b\";",
+  "main": "index.js",
+  "dependencies": {
+    "@types/react": "^16.9.31",
+    "react": "^16.13.1",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "tsc",
+    "build-watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happyZxk/Typesctipt_Learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happyZxk/Typesctipt_Learn/issues"
+  },
+  "homepage": "https://github.com/happyZxk/Typesctipt_Learn#readme"
+}
