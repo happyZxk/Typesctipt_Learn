@@ -4,6 +4,7 @@ var name = "哈哈哈";
 var arr = ["士大夫顺"];
 var aa1 = [1, 2, 3];
 var port = [1, "455"];
+var aabb = [];
 var Gender;
 (function (Gender) {
     Gender[Gender["Boy"] = 0] = "Boy";

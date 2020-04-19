@@ -7,6 +7,6 @@ var x;
     function log1(a) {
         console.log(a);
     }
-    log: log1;
+    log = log1;
     console.log(log);
 })(x || (x = {}));

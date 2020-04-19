@@ -1,5 +1,5 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+// 为什么会有泛型,它的意义在哪里(定义的时候不指定类型,调用的时候给定类型一个宽泛的类型)
 var a;
 (function (a_1) {
     // 定义函数 类用泛型

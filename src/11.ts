@@ -8,7 +8,7 @@ namespace x {
     function log1(a: number | string | boolean): void {
         console.log(a);
     }
-    log: log1;
+    log = log1;
     console.log(log);
-    
+
 }

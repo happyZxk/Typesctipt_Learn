@@ -3,6 +3,8 @@ let name: string = "哈哈哈";
 let arr: string[] = ["士大夫顺"];
 let aa1: Array<number> = [1, 2, 3];
 let port: [number, string] = [1, "455"];
+
+let aabb: { name: string, age: number }[] = [];
 enum Gender {
     Boy,
     Girl
